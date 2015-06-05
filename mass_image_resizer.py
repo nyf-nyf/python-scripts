@@ -1,3 +1,7 @@
+# Usage: python mass_image_resizer.py
+# Resizes images in current dirs, that specified in variable "dirs" to
+# the size specified in variable "size".
+# Saves resized images to "../resized/" directory.
 # -*- coding: utf-8 -*-
 import Image
 import os
